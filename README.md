@@ -38,6 +38,8 @@ Konfigurasikan repositori Ubuntu Anda untuk mengizinkan "terbatas", "semesta", d
 - cd ~/catkin_ws
 - catkin_make
 
+# 3. Mengambil data 3D Lidar dari ROS ke Python
+Untuk mengambil data xyz dari ROS, maka bisa gunakan kode python ROSLidar.py
 ## Jalankan Program
 - source devel/setup.bash
 - roslaunch lslidar_cx_driver lslidar_cx.launch
