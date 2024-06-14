@@ -43,4 +43,5 @@ Konfigurasikan repositori Ubuntu Anda untuk mengizinkan "terbatas", "semesta", d
 - roslaunch lslidar_cx_driver lslidar_cx.launch
   
 # 3. Mengambil data 3D Lidar dari ROS ke Python
+- source /opt/ros/noetic/setup.bash
 Untuk mengambil data xyz dari ROS, maka bisa gunakan kode python ROSLidar.py
